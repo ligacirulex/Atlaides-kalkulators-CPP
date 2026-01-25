@@ -1,4 +1,4 @@
-# Atlaides-kalkulators-C-
+
 #include <iostream>
 #include <iomanip>
 #include <string>
