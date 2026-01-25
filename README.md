@@ -9,6 +9,7 @@ using namespace std;
 bool irSkaitlis(const string &txt) {
     for (int i = 0; i < txt.size(); i++) {
         char c = txt[i];
+        
 
         // atļaujam mīnusa zīmi tikai kā pirmo simbolu
         if (c == '-' && i == 0)
