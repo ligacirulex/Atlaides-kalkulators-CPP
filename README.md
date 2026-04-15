@@ -1,3 +1,3 @@
-C++ mājasdarbs.
+C++
 Atlaižu kalkulators.
-Lietotājs ievada cenu un atlaidi programma izvada cenu pēc atlaides un aprēķināto summu
+Lietotājs ievada cenu un atlaidi, programma izvada cenu pēc atlaides un aprēķināto summu
